@@ -1,16 +1,6 @@
-# untitled13
+Жаныбеков Байэл Жаркынбекович 3исп9-28вб
 
-A new Flutter project.
+<img width="929" alt="Снимок экрана 2024-04-01 в 10 02 43" src="https://github.com/Chinxan/2-lesson/assets/144318197/829224cc-4667-4c24-aed6-786481a54309">
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="940" alt="Снимок экрана 2024-04-01 в 10 03 00" src="https://github.com/Chinxan/2-lesson/assets/144318197/04adb975-ed39-4853-be01-e952b836e7c8">
